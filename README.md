@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Godservant Emmanuel
 
-===========================================================================================================================================  
+---------------
 DevOps Engineer 
 ---------------  
 Passionate DevOps Engineer with a strong background in automating infrastructure, enhancing CI/CD pipelines, and implementing scalable solutions. Proficient in cloud services (AWS, Azure), containerization (Docker, Kubernetes), and configuration management (Ansible, Terraform). Committed to improving software delivery and operational efficiency.  
