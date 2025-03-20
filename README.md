@@ -45,7 +45,7 @@ Passionate DevOps Engineer with a strong background in automating infrastructure
 
 ### **Socials**  
 <p align="left"> 
-  <a href="https://www.github.com/emmagson" target="_blank" rel="noreferrer"> 
+  <a href="https://www.github.com/lordemmag-devops" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> 
   </a> 
   <a href="https://www.linkedin.com/in/emmanuel-godservant-b8161720b/" target="_blank" rel="noreferrer"> 
@@ -57,17 +57,17 @@ Passionate DevOps Engineer with a strong background in automating infrastructure
 
 ### **Badges**  
 #### **My GitHub Stats**  
-<a href="http://www.github.com/emmagson">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmagson&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="emmagson's GitHub stats" />
+<a href="http://www.github.com/lordemmag-devops">
+  <img src="https://github-readme-stats.vercel.app/api?username=lordemmag-devops&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="lordemmag-devops's GitHub stats" />
 </a>  
-<a href="http://www.github.com/emmagson">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmagson&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="emmagson's GitHub streak stats" />
+<a href="http://www.github.com/lordemmag-devops">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordemmag-devops&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="lordemmag-devops's GitHub streak stats" />
 </a>  
 
 ---
 
 ### **GitHub Activity Graph**  
-_Alternative Graph Source (Replace if the original doesn't work)_
+_Alternative Graph Source_
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmagson&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lordemmag-devops&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
