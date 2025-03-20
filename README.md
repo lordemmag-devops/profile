@@ -8,7 +8,7 @@ Passionate DevOps Engineer with a strong background in automating infrastructure
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [lordemmag@gmail.com](mailto:lordemmag@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm consistently improving my skill
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills  
